@@ -1,10 +1,6 @@
 autoscale: true
 
-# [fit] Parallelism and...
-
 ![fit, inline](https://spark.apache.org/images/spark-logo.png)
-
-`rahuldave@gmail.com`     for    `harvard cs109`
 
 ---
 

@@ -26,11 +26,6 @@ acquisition using the physician preferences. Identification of key risk factors 
 collection of necessary patient data and, on their basis, determine whether the patient needs an
 additional examination.
 
-#### Analysis
-
-The aim of this project is to find correlations between different risk factors for cervical
-cancer and through statistical analysis and visualization methods identify the key ones. 
-
 #### Data Source
 
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)

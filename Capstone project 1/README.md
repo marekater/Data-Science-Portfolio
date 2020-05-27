@@ -9,7 +9,7 @@ Worldwide, cervical cancer is both the fourth-most common cause of cancer and
 the fourth-most common cause of death from cancer in women. In 2012, an estimated 528,000
 cases of cervical cancer occurred, with 266,000 deaths.This is about 8% of the total cases and
 total deaths from cancer. About 70% of cervical cancers occur in developing countries.
-(​https://en.wikipedia.org/wiki/Cervical_cancer​)
+(https://en.wikipedia.org/wiki/Cervical_cancer)
 
 #### Problem statement 
 
